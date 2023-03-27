@@ -2,7 +2,7 @@
   "@context": "https://www.w3.org/ns/solid/oidc-context.jsonld",
   "client_id": "https://app.mornemaritz.tech/myappid",
   "redirect_uris": ["https://app.mornemaritz.tech/solid-hl7/"],
-  "client_name": "My Sample App",
+  "client_name": "My Test App",
   "client_uri": "https://app.mornemaritz.tech/",
   "logo_uri": "https://app.mornemaritz.tech/M2logo.png",
   "tos_uri": "https://app.mornemaritz.tech/terms.html",
