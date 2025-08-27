@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/solid/oidc-context.jsonld",
+  "client_id": "https://our-home.net/myappid",
+  "redirect_uris": ["https://our-home.net/solid-hl7/", "http://localhost:1234"],
+  "client_name": "My Test App",
+  "client_uri": "https://our-home.net/",
+  "logo_uri": "https://our-home.net/M2logo.png",
+  "tos_uri": "https://our-home.net/terms.html",
+  "policy_uri": "https://our-home.net/policy.html",
+  "contacts": ["mornemaritz@gmail.com"],
+  "scope" : "openid offline_access webid",
+  "grant_types" : ["refresh_token","authorization_code"]
+}

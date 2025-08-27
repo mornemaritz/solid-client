@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "route": "/myappid",
+      "rewrite": "/myappid.json"
+    }
+  ]
+}
