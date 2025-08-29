@@ -4,7 +4,7 @@
   "redirect_uris": ["https://our-home.net/solid-hl7/", "http://localhost:1234"],
   "client_name": "My Test App",
   "client_uri": "https://our-home.net/",
-  "logo_uri": "https://our-home.net/M2logo.png",
+  "logo_uri": "https://our-home.net/M2Logo.png",
   "tos_uri": "https://our-home.net/terms.html",
   "policy_uri": "https://our-home.net/policy.html",
   "contacts": ["mornemaritz@gmail.com"],
